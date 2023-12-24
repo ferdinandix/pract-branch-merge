@@ -11,7 +11,7 @@ function calcular(){
 
 }
 
-function borrar(){
+function limpiar(){
     document.getElementById('pantalla').value = '';
 }
 
